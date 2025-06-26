@@ -1,4 +1,4 @@
-Spotify-Style Listener Churn and Retention Analysis
+## Spotify-Style Listener Churn and Retention Analysis
 
 I analyzed a 19 million record Last.fm dataset to simulate Spotify user behavior. This helped reveal listener churn trends, artist-based retention, and cohort-based engagement patterns.
 
